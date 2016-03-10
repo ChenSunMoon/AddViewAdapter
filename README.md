@@ -1,4 +1,4 @@
-# AddViewAdapter
+## AddViewAdapter
 重写RecyclerView的Adapter,实现addHead和addFoot功能
 
 RecyclerView是google推出替代ListView和GridView的控件,很好用自带封装了ViewHodler
