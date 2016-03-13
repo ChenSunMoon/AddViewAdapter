@@ -7,7 +7,7 @@ RecyclerView是google推出替代ListView和GridView的控件,很好用自带封
 
 其实就是将head和foot看成普通的item条目就好,将head角标放前,foot角标放后,比较简单
 
-ps: 代码值提供思路
+ps: 代码只提供思路
 
 ![image](https://github.com/Zhaoss/AddViewAdapter/blob/master/image/1.jpg?raw=true)
 ![image](https://github.com/Zhaoss/AddViewAdapter/blob/master/image/2.jpg?raw=true)
